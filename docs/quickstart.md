@@ -9,12 +9,12 @@ The right panel provides the main user functionality to interact with the databa
 
 ![Glowing Bear overview image][gb_overview]
 
-## Current data selection
+## Left panel: Current data selection
 This shows the result of the users actions during data selection. After successfully selecting data 
 it will show the number of subjects and observations that match the given criteria, and the tree nodes
 that can be used for Analysis and Export.
 
-## Ontology
+## Left panel: Ontology
 The tree shows the variables that are available to you. This hierarchy contains studies and concepts
 and the number of subjects that have information for them. The nodes in the tree can be dragged into
 the right panel to create queries. Currently the following data types are supported:
@@ -26,11 +26,11 @@ the right panel to create queries. Currently the following data types are suppor
 - ![icons hd][icons_hd] high-dimensional
 - ![icons study][icons_study] study
 
-## Queries
+## Left panel: Queries
 Queries you've created previously can be seen and restored from here. This is convenient if you
 frequently require information about the same (updated) group of subjects. 
 
-## Data selection
+## Right panel: Data selection
 Most often you would first start here to select create the dataset that you want to use within 
 the application.
 
@@ -56,14 +56,14 @@ The internal data model for Glowing Bear is not suitable for representation in r
 systems like Excel, without first specifying how to reduce the dimensionality of the 
 longitudinal properties of the data.
 
-## Analysis
+## Right panel: Analysis
 ![Glowing Bear Analysis image][gb_analysis]
 
 The Analysis tab now presents you a cross table functionality. You can drag any categorical variables from
 the *Current data selection* panel into the vertical and horizontal dropzone to create a cross table with 
 subject counts.
 
-## Export
+## Right panel: Export
 ![Glowing Bear Export image][gb_export]
 
 The Export tab allows you specify a name that will create a downloadable .zip file with all the data selected

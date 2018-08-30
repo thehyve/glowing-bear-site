@@ -1,7 +1,7 @@
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ZVnZ3zszzHo?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Glowing Bear
-<span class="green">Glowing Bear</span> is the modern cohort selector for i2b2 tranSMART:
+<span class="green">Glowing Bear</span> is the modern cohort selector for [i2b2 tranSMART](https://transmartfoundation.org/):
 
 * Full support for <strong>absolute and relative time series</strong> and <strong>sample data</strong>
 * <strong>Cross-study</strong>, ontology-based variable harmonisation
