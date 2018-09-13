@@ -5,11 +5,6 @@ Welcome to the Glowing Bear user documentation. If you are a new user looking fo
 introduction, you can visit our **[quick start guide](/docs/quickstart)**.
 
 
-```
-General todo:
- - [ ] Update images to release version.
-```
-
 More detailed information can be found below.
 
 # Table of contents
@@ -93,7 +88,7 @@ formatted and is not meant to be created or edited by hand.
 ### Query subscription
 
 <div class="note"></div>
-**Note:** this feature is not always available.
+**Note:** this feature is not always made available to users.
 
 By subscribing yourself to a query you will receive an email when there are new subjects found for 
 the specified criteria. Any time new data is loaded, Glowing Bear will check whether you have access
@@ -116,11 +111,6 @@ counts will be shown in the [current data selection](#current-data-selection) pa
 
 ### Step 1: Select a group of subjects
 {: refdef id="data-selection-step-1"}
-
-```
-Todo:
-- [ ] Observation level constraints vs subject set constraints: **Add image**.
-```
 
 ![Glowing Bear Step 1 image][gb_step1]
 
@@ -214,11 +204,6 @@ in specific cases and is not meant for general use.
 
 ### Step 3: Data table
 
-```
-Todo:
-- [ ] add simple image with two scenarios
-```
-
 The internal data model for Glowing Bear is not suitable for representation in 
 rows and columns based systems like Excel, without first specifying how to 
 reduce the dimensionality of the longitudinal properties of the data. This step 
@@ -230,9 +215,6 @@ data, by pressing the ``Update`` button. These dimensions will all be shown in t
 *dimension director*. The two lists determine whether dimensions will show in the horizontal or 
 vertical axis of the table. You can move dimensions between the two list and change the order 
 based on what your preferred view on the data is. 
-
-<div class="note"></div>
-Add image here.
 
 In this simple example we have all applicable dimensions in the vertical axis on the left and
 in the right we have the *concept* dimension in the horizontal axis.
