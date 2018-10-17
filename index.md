@@ -17,11 +17,11 @@
 * Patient <strong>cohort selection</strong> with complex nested queries
 * <strong>Dataset selection</strong> on variables of interest and <strong>data export</strong>
 * Patient query subscription: receive email notifications when your cohort is updated
-* <span class="green">IN DEVELOPMENT</span> <strong>Data table</strong> and improved export, with flexible dimension organisation
-* <span class="green">IN DEVELOPMENT</span> <strong>Cross table</strong> for data exploration
-* <span class="green">IN DEVELOPMENT</span> [Keycloak](https://www.keycloak.org/) for convenient <strong>authentication and authorization management</strong>
+* <span class="green">NEW!</span> <strong>Data table</strong> and improved export, with flexible dimension organisation
+* <span class="green">NEW!</span> <strong>Cross table</strong> for data exploration
+* <span class="green">NEW!</span> [Keycloak](https://www.keycloak.org/) for convenient <strong>authentication and authorization management</strong>
 * <span class="green">IN DEVELOPMENT</span> Interactive <strong>visual analytics</strong> with the [Fractalis platform](https://fractalis.lcsb.uni.lu/)
 
 ### Supported platforms
 * [tranSMART 17.1](https://wiki.transmartfoundation.org/display/transmartwiki/tranSMART+17.1+Server+release), with the [tranSMART REST API V2](https://transmart.thehyve.net/open-api)
-* <span class="green">IN DEVELOPMENT</span> Support for running Glowing Bear on [i2b2](https://www.i2b2.org/), [Medco](https://c4science.ch/w/medco/) and [Shrine](https://open.med.harvard.edu/project/shrine/)
+* <span class="green">NEW!</span> Support for running Glowing Bear on [i2b2](https://www.i2b2.org/) and [Medco](https://c4science.ch/w/medco/)
