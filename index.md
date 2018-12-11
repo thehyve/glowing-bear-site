@@ -1,4 +1,4 @@
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/ZVnZ3zszzHo?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=WdbQIi167C0&t=1s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Glowing Bear
 <span class="green">Glowing Bear</span> is the modern cohort selector for [i2b2 tranSMART](https://transmartfoundation.org/):
@@ -25,3 +25,8 @@
 ### Supported platforms
 * [tranSMART 17.1](https://wiki.transmartfoundation.org/display/transmartwiki/tranSMART+17.1+Server+release), with the [tranSMART REST API V2](https://transmart.thehyve.net/open-api)
 * <span class="green">NEW!</span> Support for running Glowing Bear on [i2b2](https://www.i2b2.org/) and [Medco](https://c4science.ch/w/medco/)
+
+### Supported browsers
+* Chrome
+* Firefox
+* Safari
