@@ -1,4 +1,4 @@
-<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=WdbQIi167C0&t=1s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/WdbQIi167C0?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Glowing Bear
 <span class="green">Glowing Bear</span> is the modern cohort selector for [i2b2 tranSMART](https://transmartfoundation.org/):
