@@ -27,6 +27,6 @@
 * <span class="green">NEW!</span> Support for running Glowing Bear on [i2b2](https://www.i2b2.org/) and [Medco](https://c4science.ch/w/medco/)
 
 ### Supported browsers
-* Chrome
-* Firefox
-* Safari
+* Chrome lateset version
+* Firefox lateset version
+* Safari lateset version
