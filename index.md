@@ -1,12 +1,14 @@
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/WdbQIi167C0?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Glowing Bear
-<span class="green">Glowing Bear</span> is the modern cohort selector for [i2b2 tranSMART](https://transmartfoundation.org/):
+<span class="green">Glowing Bear</span> is a modern data selection interface,
+for cohort selection and exploratory analyses:
 
-* Full support for <strong>absolute and relative time series</strong> and <strong>sample data</strong>
+* Support for queries on <strong>longitudinal</strong> and <strong>sample data</strong>
 * <strong>Cross-study</strong>, ontology-based variable harmonisation
 * <strong>Decoupled</strong> user interface, built on [Angular](https://angular.io/)
 * API-level enforced <strong>security</strong>
+* Built on [i2b2 tranSMART](https://transmartfoundation.org/)
 
 ### Scalability
 * Demonstrated to be [scalable up to <strong>100k patients</strong> and <strong>500M observations</strong>](http://blog.thehyve.nl/blog/upscaling-transmart-and-glowing-bear)
