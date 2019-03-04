@@ -13,6 +13,8 @@ for cohort selection and exploratory analyses:
 If you would like a tailor-made demonstration of what Glowing Bear could do for
 you, please [reach out to The Hyve](https://thehyve.nl/contact/).
 
+![Glowing Bear screenshot][glowingbear-screenshot]
+
 ### Features
 * Tree-structured <strong>data overview</strong> with variable search
 * Patient <strong>cohort selection</strong> with complex nested queries
@@ -33,3 +35,6 @@ you, please [reach out to The Hyve](https://thehyve.nl/contact/).
 
 ### Supported browsers
 * Latest versions of Chrome, Firefox and Safari
+
+[glowingbear-screenshot]: /images/glowingbear-screenshot.png
+{: .wide-image}
