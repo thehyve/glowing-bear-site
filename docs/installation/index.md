@@ -2,7 +2,8 @@
 {: .no_toc}
 
 Below is more information on how to install the Glowing Bear data warehouse and
-other tools in the Glowing Bear ecosystem.
+other tools in the Glowing Bear ecosystem. More [technical information](/docs/technical)
+is available too.
 
 If you need help installing Glowing Bear or tranSMART, please do not hesitate to
 [reach out to The Hyve](https://thehyve.nl/contact/).

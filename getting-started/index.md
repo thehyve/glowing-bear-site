@@ -14,3 +14,4 @@ Bear:
 1. [Tutorials](/tutorials)
 1. [User manual](/docs)
 1. [Installation](/docs/installation)
+1. [Technical documentation](/docs/technical)
