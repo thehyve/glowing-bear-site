@@ -24,6 +24,12 @@ two backends.
 * [tranSMART API server Github repository](https://github.com/thehyve/transmart-core)
 * [Glowing Bear backend Github repository](https://github.com/thehyve/gb-backend)
 
+The following **architecture diagram** summarizes how tranSMART, Glowing Bear and
+other (optional) components interact:
+
+
+![Glowing Bear and tranSMART architecture][Glowing_Bear_TranSMART_architecture]
+
 # tranSMART API
 
 The [interactive documentation for the tranSMART 17.1 API is available here](https://transmart.thehyve.net/open-api/), via Open API's Swagger.
@@ -57,5 +63,6 @@ You can also generate the most recent documentation yourself with Schema Spy,
 and read design decisions [on the Github repository](https://github.com/thehyve/transmart-core/tree/dev/transmart-data/db-doc).
 
 
+[Glowing_Bear_TranSMART_architecture]: /docs/images/Glowing_Bear_TranSMART_architecture.png
 [tranSMART_2017_data_model]: /docs/images/tranSMART_2017_data_model.png
 {: .wide-image}
