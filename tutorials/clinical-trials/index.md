@@ -12,6 +12,10 @@ Sclerosis.
 You can execute this tutorial on our
 [public demonstration server](/getting-started) of Glowing Bear.
 
+<div class='note'></div>
+**Note:** This tutorial is temporarily unavailable. Please focus on the
+[clinical research tutorial](/tutorials/clinical-care) instead.
+
 # Table of contents
 {: .no_toc}
 
