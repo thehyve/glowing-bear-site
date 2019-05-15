@@ -9,11 +9,9 @@ The following tutorial is using three publicly available studies from the
 [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) on Multiple
 Sclerosis.
 
-You can execute this tutorial on our
-[public demonstration server](/getting-started) of Glowing Bear.
-
 <div class='note'></div>
-**Note:** This tutorial is temporarily unavailable. Please focus on the
+**Note:** This tutorial is temporarily unavailable on the public demonstration
+server. For your hands-on experience, please use the
 [clinical research tutorial](/tutorials/clinical-care) instead.
 
 # Table of contents
