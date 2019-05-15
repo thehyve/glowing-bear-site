@@ -36,14 +36,16 @@ The [interactive documentation for the tranSMART 17.1 API is available here](htt
 
 # tranSMART data model
 
-Below is the tranSMART 17.1 data model. The underlying i2b2 data model is indicated with a blue background.
-![tranSMART 17.1 data model][tranSMART_2017_data_model]
+Below is the **class model** for tranSMART Glowing Bear, giving the relationship
+between all core concepts:
+
+![tranSMART Glowing Bear class diagram][transmart_gb_class_diagram]
 
 With this data model we can model both *health care datasets*, having absolute
 timestamps and hospital visits, and *studies and clinical trials*, by using the
 study and study-specific visits.
 
-In this flexible star-schema data model, the observations have the following domains:
+In the flexible star-schema data model, the observations have the following dimensions:
 * **Patient**: For uniquely capturing the study subject
 * **Concept**: For capturing the variable in a tree hierarchy structure
 * **Start/End Date**: Absolute timestamps linked to the specific observation
@@ -64,5 +66,4 @@ and read design decisions [on the Github repository](https://github.com/thehyve/
 
 
 [Glowing_Bear_TranSMART_architecture]: /docs/images/Glowing_Bear_TranSMART_architecture.png
-[tranSMART_2017_data_model]: /docs/images/tranSMART_2017_data_model.png
-{: .wide-image}
+[transmart_gb_class_diagram]: /docs/images/transmart_gb_class_diagram.jpg
