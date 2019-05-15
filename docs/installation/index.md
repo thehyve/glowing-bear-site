@@ -71,11 +71,11 @@ Releases are available in [Github releases](https://github.com/thehyve/gb-backen
 
 The Python API client for tranSMART can used to extract data from the tranSMART
 server, while respecting the access rights, into a Python environment. For
-example within Jupyter Notebooks. It can be installed with pip as [documented in
+example within Jupyter Notebooks. It can be installed with `pip` as [documented in
 the Github repository](https://github.com/thehyve/transmart-api-client-py#installation).
 
-An example Jupyter Notebook with how to use the client can be found in
-[transmart-tutorials](https://github.com/thehyve/transmart-tutorials).
+Explore what you can do with the Python client with this
+[online tutorial](/tutorials/python-jupyter-notebook).
 
 ## tranSMART toolkit (tmtk) data extraction and transformation
 
