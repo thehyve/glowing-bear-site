@@ -113,7 +113,7 @@ An example of a complex query sentence:
 
 The translation to mathematical expression with parentheses:
 
-``Give me all Patients = [(female) **AND** (born between 1992 and 1997)] **AND** [(RNA)  **OR** (DNA) biomaterials``
+``Give me all Patients = [(female) AND (born between 1992 and 1997)] AND [(RNA)  OR (DNA) biomaterials``
 
 The visualization of the complex query in the user interface of the cohort selection panel:
 
