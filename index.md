@@ -13,7 +13,7 @@ for cohort selection and exploratory analyses:
 If you would like a tailor-made demonstration of what Glowing Bear could do for
 you, please [reach out to The Hyve](https://thehyve.nl/contact/).
 
-![Glowing Bear screenshot][glowingbear-screenshot]
+![Glowing Bear screenshot][homescreen_gb2.0.png]
 
 ### Features
 * Tree-structured <strong>data overview</strong> with variable search
@@ -41,5 +41,5 @@ you, please [reach out to The Hyve](https://thehyve.nl/contact/).
 
 
 
-[glowingbear-screenshot]: /images/glowingbear-screenshot.png
+[glowingbear-screenshot]: /images/homescreen_gb2.0.png
 {: .wide-image}
