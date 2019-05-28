@@ -20,21 +20,26 @@ you, please [reach out to The Hyve](https://thehyve.nl/contact/).
 * Patient <strong>cohort selection</strong> with complex nested queries
 * <strong>Dataset selection</strong> on variables of interest and <strong>data export</strong>
 * Patient query subscription: receive email notifications when your cohort is updated
-* <span class="green">NEW!</span> <strong>Data table</strong> and improved export, with flexible dimension organisation
-* <span class="green">NEW!</span> <strong>Cross table</strong> for data exploration
-* <span class="green">NEW!</span> [Keycloak](https://www.keycloak.org/) for convenient <strong>authentication and authorization management</strong>
+* <strong>Data table</strong> and improved export, with flexible dimension organisation
+* <strong>Cross table</strong> for data exploration
+* [Keycloak](https://www.keycloak.org/) for convenient <strong>authentication and authorization management</strong>
+* <span class="green">NEW! Glowing Bear v.2.0 release </span> with <strong> biosample query and subscription feature </strong>
+* <span class="green">IN DEVELOPMENT</span> <strong> Dockerization of </strong> Glowing Bear and its components
 * <span class="green">IN DEVELOPMENT</span> Interactive <strong>visual analytics</strong> with the [Fractalis platform](https://fractalis.lcsb.uni.lu/)
 
 ### Scalability
-* Demonstrated to be [scalable up to <strong>100k patients</strong> and <strong>500M observations</strong>](https://thehyve.nl/cases/transmart-development-for-population-studies/)
+* Demonstrated to be [scalable up to <strong>300k patients</strong> and <strong>500M observations</strong>](https://thehyve.nl/cases/transmart-development-for-population-studies/)
 * Even larger cohorts planned
 
 ### Supported platforms
 * [tranSMART 17.1](https://wiki.transmartfoundation.org/display/transmartwiki/tranSMART+17.1+Server+release), with the [tranSMART REST API V2](https://transmart.thehyve.net/open-api)
-* <span class="green">NEW!</span> Support for running Glowing Bear on [i2b2](https://www.i2b2.org/) and [Medco](https://c4science.ch/w/medco/)
+
 
 ### Supported browsers
-* Latest versions of Chrome, Firefox and Safari
+* Latest versions of Chrome, Firefox, Safari and Edge
+* IE is partially working, please choose one of the other browsers.
+
+
 
 [glowingbear-screenshot]: /images/glowingbear-screenshot.png
 {: .wide-image}
