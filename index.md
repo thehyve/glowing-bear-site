@@ -41,5 +41,5 @@ you, please [reach out to The Hyve](https://thehyve.nl/contact/).
 
 
 
-[glowingbear-screenshot]: /images/homescreen_gb2.0.png
+[homescreen_gb2.0.png]: /images/homescreen_gb2.0.png
 {: .wide-image}
