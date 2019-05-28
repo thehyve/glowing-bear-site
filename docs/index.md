@@ -96,7 +96,7 @@ You can select the group of subjects you are interested in three ways: by draggi
 - Pedigree (custom option): include all subjects that have the given relationship with at least one of the subjects in the specified subject set.
 
 <div class="note"></div>
-**Note:** adding no criteria in **Inclusion** criteria selects everyone in the database.
+**Note:** adding no criteria in **add criteria** box selects everyone in the database.
 
 #### Extended query to custom subject dimension types
 A cohort is created by selecting the variables of interest connected to a patient such as: gender, age, diagnosis, treatment, et cetera. Retrieving from the database, the information specifically contained in the so called “subject dimension type” for the patients. However, now you can choose to customize the subject dimension type to the needs and requirements of any given hospital, research institution or life science organization. Allowing the selection of a cohort, based on other subject information than patients. For example, in the box below the *Summary* subject counts, a drop-down menu shows the current available subject dimension options, such as: Patient, Diagnosis ID, Biosources ID, Biomaterials ID, and Images ID. This extension allows users to retrieve specific information on the selected dimensions independently from the others.
@@ -108,14 +108,16 @@ A cohort is created by selecting the variables of interest connected to a patien
 You can click on the ``+`` of the empty add criterion-box, to create a group constraint that allow you to build a more articulate and complex query. A complex query can be visualised as a series of constraints linked with ``and/or`` logic, and it can be imagined as a mathematical expression with parentheses. Those parenthesis are displayed with different range of blue vertical lines on the left side of the constraint boxes.
 
 An example of a complex query sentence: 
+
 ``Give me all patients in the dataset that are female and were born between 1992 and 1997, and that have RNA or DNA biomaterials.``
 
 The translation to mathematical expression with parentheses:
 
-Give me all Patients = [(female) **AND** (born between 1992 and 1997)] **AND** [(RNA)  **OR** (DNA) biomaterials]
+``Give me all Patients = [(female) **AND** (born between 1992 and 1997)] **AND** [(RNA)  **OR** (DNA) biomaterials``
 
 The visualization of the complex query in the user interface of the cohort selection panel:
-![Glowing Bear complex query][gb_step1]
+
+![Glowing Bear complex query][complexquery1_gb2.0]
 
 #### Observation level versus subject level constraints
 
@@ -127,6 +129,8 @@ Glowing Bear clearly distinguishes the two. Any criteria within a single query b
 #### Inclusion/Exclusion icon
 
 ![Glowing Bear icon incl ][included_icon]
+
+
 ![Glowing Bear icon excl ][excluded_icon]
 
 In Glowing Bear you can specify if you want **to exclude a criteria**, switching the included/excluded icon on the right side of the constraint box. Moreover, it is not possible to select anyone you do not have any information on.
@@ -283,6 +287,10 @@ Check also the [API tutorial with Python and Jupyter notebook](https://glowingbe
 
 [subject_dimensions_gb2.0]: /images/subject_dimensions_gb2.0.png
 {: .wide-image}
+
+[complexquery1_gb2.0]: /images/complexquery1_gb2.0.png
+{: .wide-image}
+
 
 [included_icon]: /images/included_icon.png
 {: .wide-image}
