@@ -1,4 +1,6 @@
-<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=7pZe8Yyi_no" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+[![GB2.0](http://img.youtube.com/vi/7pZe8Yyi_no/0.jpg)](http://www.youtube.com/watch?v=7pZe8Yyi_no "glowingbear2.0")
 
 <span class="green">Glowing Bear</span> is a modern data selection interface,
 for cohort selection and exploratory analyses:
