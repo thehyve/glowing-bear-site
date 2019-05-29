@@ -1,4 +1,4 @@
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/WdbQIi167C0?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=7pZe8Yyi_no&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <span class="green">Glowing Bear</span> is a modern data selection interface,
 for cohort selection and exploratory analyses:
