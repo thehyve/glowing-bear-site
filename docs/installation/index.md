@@ -17,7 +17,7 @@ If you need help installing Glowing Bear or tranSMART, please do not hesitate to
 
 # Install Glowing Bear and its components
 
-The Glowing Bear consists of a decoupled user interface on one or
+Glowing Bear consists of a decoupled user interface on one or
 two backends.
 There are two ways to install Glowing bear in its components. One way is using Docker, [check the Github page](https://github.com/thehyve/glowing-bear-docker) to try the Docker scripts for Glowing Bear. Another way is to install each component separetly, and the instructions for this procedure are provided below.
 
@@ -42,12 +42,11 @@ There are two ways to install Glowing bear in its components. One way is using D
     <a href="https://github.com/thehyve/transmart-core/releases/tag/v17.1-hyve-5.9">Github</a> /
     <a href="https://repo.thehyve.nl/content/repositories/releases/org/transmartproject/transmart-api-server/17.1-HYVE-5.9/">Repo</a>
     </td>
-     1.0.0<br/>
+    <td> 1.0.0<br/>
     <a href="https://github.com/thehyve/gb-backend/releases/tag/v1.0.0">Github</a> /
     <a href="https://repo.thehyve.nl/content/repositories/releases/nl/thehyve/gb-backend/1.0.0/">Repo</a>
-    </td>
-    <td>
-  </tr>
+ </td>
+    </tr>
 </table>
 
 ## Glowing Bear interface
