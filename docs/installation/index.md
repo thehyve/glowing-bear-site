@@ -1,8 +1,8 @@
 # Installation
 {: .no_toc}
 
-Below is more information on how to install the Glowing Bear data warehouse and
-other tools in the Glowing Bear ecosystem. More [technical information](/docs/technical)
+This page provides more information on how to install the Glowing Bear with its components and
+other tools of the Glowing Bear ecosystem. More [technical information](/docs/technical)
 is available too.
 
 If you need help installing Glowing Bear or tranSMART, please do not hesitate to
@@ -15,10 +15,11 @@ If you need help installing Glowing Bear or tranSMART, please do not hesitate to
 {:toc}
 {::options toc_levels="1,2" /}
 
-# Glowing Bear data warehouse
+# Install Glowing Bear and its components
 
-The Glowing Bear data warehouse consists of a decoupled user interface on one or
+The Glowing Bear consists of a decoupled user interface on one or
 two backends.
+There are two ways to install Glowing bear in its components. One way is using Docker, [check the Github page](https://github.com/thehyve/glowing-bear-docker) to try the Docker scripts for Glowing Bear. Another way is to install each component separetly, and the instructions for this procedure are provided below.
 
 <table>
   <tr>
@@ -29,19 +30,23 @@ two backends.
     <th><a href="#glowing-bear-backend">Glowing Bear backend</a></th>
   </tr>
   <tr>
-    <td>10-12-2018</td>
+    <td>28-05-2019</td>
     <td>Stable</td>
     <td>
-    1.0.3<br/>
-    <a href="https://github.com/thehyve/glowing-bear/releases/tag/1.0.3">Github</a> /
-    <a href="https://repo.thehyve.nl/content/repositories/releases/nl/thehyve/glowing-bear/1.0.3/">Repo</a>
+    2.0.0<br/>
+    <a href="https://github.com/thehyve/glowing-bear/releases/tag/2.0.0">Github</a> /
+    <a href="https://repo.thehyve.nl/content/repositories/releases/nl/thehyve/glowing-bear/2.0.0/">Repo</a>
     </td>
     <td>
-    v17.1-hyve-5.6<br/>
-    <a href="https://github.com/thehyve/transmart-core/releases/tag/v17.1-hyve-5.6">Github</a> /
-    <a href="https://repo.thehyve.nl/content/repositories/releases/org/transmartproject/transmart-api-server/17.1-HYVE-5.6/">Repo</a>
+    v17.1-hyve-5.9<br/>
+    <a href="https://github.com/thehyve/transmart-core/releases/tag/v17.1-hyve-5.9">Github</a> /
+    <a href="https://repo.thehyve.nl/content/repositories/releases/org/transmartproject/transmart-api-server/17.1-HYVE-5.9/">Repo</a>
     </td>
-    <td>-</td>
+     1.0.0<br/>
+    <a href="https://github.com/thehyve/gb-backend/releases/tag/v1.0.0">Github</a> /
+    <a href="https://repo.thehyve.nl/content/repositories/releases/nl/thehyve/gb-backend/1.0.0/">Repo</a>
+    </td>
+    <td>
   </tr>
 </table>
 
