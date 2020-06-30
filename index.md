@@ -1,6 +1,6 @@
 
 
-[![GB2.0](http://img.youtube.com/vi/7pZe8Yyi_no/0.jpg)](http://www.youtube.com/watch?v=7pZe8Yyi_no "glowingbear2.0")
+[![GB2.0](https://img.youtube.com/vi/7pZe8Yyi_no/0.jpg)](https://www.youtube.com/watch?v=7pZe8Yyi_no "glowingbear2.0")
 
 <span class="green">Glowing Bear</span> is a modern data selection interface,
 for cohort selection and exploratory analyses:
@@ -10,7 +10,7 @@ for cohort selection and exploratory analyses:
 * <strong>Decoupled</strong> user interface, built on [Angular](https://angular.io/)
 * API-level enforced <strong>security</strong>
 * Built on [i2b2 tranSMART](https://transmartfoundation.org/)
-* [Strong community](http://blog.thehyve.nl/blog/user-driven-development-of-transmart-glowing-bear)
+* [Strong community](https://blog.thehyve.nl/blog/user-driven-development-of-transmart-glowing-bear)
 
 If you would like a tailor-made demonstration of what Glowing Bear could do for
 you, please [reach out to The Hyve](https://thehyve.nl/contact/).
